@@ -1,5 +1,7 @@
 h1. !http://railsapps.github.com/images/rails-36x36.jpg(Rails App for a Startup Prelaunch Signup Site)! Rails App for a Startup Prelaunch Signup Site
 
+
+
 Rails 3.2 example application for a “beta launching soon” startup prelaunch signup site.
 
 * "Rails Prelaunch Signup App":http://railsapps.github.com/rails-prelaunch-signup/ project page
