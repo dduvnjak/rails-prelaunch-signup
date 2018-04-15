@@ -23,6 +23,7 @@ Read an "interview with Michael Gajda":http://blog.railsapps.org/post/2254354122
 
 h4. Notable Forks
 
+
 |_. Alternative version                  |_. |_. Author |
 | "rails-prelaunch-signup-1click":https://github.com/chadokruse/rails-prelaunch-signup-1click | single-click email submit (no modal) | "Chad Kruse":http://twitter.com/chadkruser |
 
