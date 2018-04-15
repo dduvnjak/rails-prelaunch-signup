@@ -1,5 +1,7 @@
 h1. !http://railsapps.github.com/images/rails-36x36.jpg(Rails App for a Startup Prelaunch Signup Site)! Rails App for a Startup Prelaunch Signup Site
 
+
+
 Rails 3.2 example application for a “beta launching soon” startup prelaunch signup site.
 
 * "Rails Prelaunch Signup App":http://railsapps.github.com/rails-prelaunch-signup/ project page
@@ -20,6 +22,7 @@ If you deploy a site using this example, please message "Daniel Kehoe":http://tw
 Read an "interview with Michael Gajda":http://blog.railsapps.org/post/22543541226/powered-up-by-the-railsapps-project-xplaygrounds-com  about how he used the project to launch his startup site.
 
 h4. Notable Forks
+
 
 |_. Alternative version                  |_. |_. Author |
 | "rails-prelaunch-signup-1click":https://github.com/chadokruse/rails-prelaunch-signup-1click | single-click email submit (no modal) | "Chad Kruse":http://twitter.com/chadkruser |
